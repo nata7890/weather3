@@ -134,7 +134,7 @@ table {
 	max-height: 240px;
 	margin: auto;
 	margin-top: 2%;
-	border: 2px solid #122e39;
+	border: 1px solid #122e39;
 	padding: 1%;
 	background-color: #fbfaf6;
 	margin-bottom: 1%;
@@ -152,7 +152,7 @@ table {
 	padding: 1%;
 	font-size: 205%;
 	font-weight: normal;
-	margin-left: 70%;
+	margin-left: 75%;
 }
 
 .column {
